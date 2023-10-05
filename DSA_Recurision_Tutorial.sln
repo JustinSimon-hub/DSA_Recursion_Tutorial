@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA_Recurision_Tutorial", "DSA_Recurision_Tutorial\DSA_Recurision_Tutorial.csproj", "{808E20BD-C089-4235-A853-89FE66CFB972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{808E20BD-C089-4235-A853-89FE66CFB972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808E20BD-C089-4235-A853-89FE66CFB972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808E20BD-C089-4235-A853-89FE66CFB972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808E20BD-C089-4235-A853-89FE66CFB972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB918C6-35BA-4CFB-B813-9F9359932248}
+	EndGlobalSection
+EndGlobal
